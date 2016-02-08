@@ -1,6 +1,6 @@
 {
   "name": "enzyme-example-mocha",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Example project with React + Enzyme + Mocha",
   "main": "build/index.js",
   "scripts": {
